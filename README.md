@@ -27,7 +27,7 @@ This repository contains a Power BI project that visualizes restaurant data from
 
 ## 📸 Screenshot
 
-![Dashboard Preview](./Screenshot.png)
+![Dashboard Preview](Screenshot%202025-06-10%20144726.png)
 
 ---
 
